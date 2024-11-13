@@ -1,20 +1,15 @@
-body{
-    width: 100%;
-}
+
+
 *{
     margin: 0;
     padding: 0;
 }
-    display: flex;
-    justify-content: ;
-} */
-
 .horta{
     padding-left: 70vw;
     margin-top: 20vh;
     width: 30vw;
     height: 30vh;
-    position: absolute;  
+    position: relative;
 }
 .bg{
     width: 100%;
@@ -29,14 +24,11 @@ body{
     position: absolute;   
     top: 3%;
     right: 3%;
-    /* background-color: blue; */
 }
 .foody{
    position: absolute;
    color: black;
    font-weight: bolder;
-   
-   background-color: red;
    top: 3%;
    left: 3%;
 }
@@ -46,4 +38,5 @@ body{
     position: absolute;
     top: 15%;
 }
+
 
